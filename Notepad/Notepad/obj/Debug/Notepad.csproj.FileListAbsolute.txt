@@ -1,0 +1,20 @@
+C:\Users\Andrew\Desktop\Notepad\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\Andrew\Desktop\Notepad\Notepad\bin\Debug\Notepad.exe
+C:\Users\Andrew\Desktop\Notepad\Notepad\bin\Debug\Notepad.pdb
+C:\Users\Andrew\Desktop\Notepad\Notepad\obj\Debug\Notepad.csprojAssemblyReference.cache
+C:\Users\Andrew\Desktop\Notepad\Notepad\obj\Debug\Notepad.Form1.resources
+C:\Users\Andrew\Desktop\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\Andrew\Desktop\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+C:\Users\Andrew\Desktop\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\Notepad\Notepad\obj\Debug\Notepad.exe
+C:\Users\Andrew\Desktop\Notepad\Notepad\obj\Debug\Notepad.pdb
+C:\Users\Andrew\Documents\Proiecte scolare\C#\Notepad\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\Andrew\Documents\Proiecte scolare\C#\Notepad\Notepad\bin\Debug\Notepad.exe
+C:\Users\Andrew\Documents\Proiecte scolare\C#\Notepad\Notepad\bin\Debug\Notepad.pdb
+C:\Users\Andrew\Documents\Proiecte scolare\C#\Notepad\Notepad\obj\Debug\Notepad.csprojAssemblyReference.cache
+C:\Users\Andrew\Documents\Proiecte scolare\C#\Notepad\Notepad\obj\Debug\Notepad.Form1.resources
+C:\Users\Andrew\Documents\Proiecte scolare\C#\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\Andrew\Documents\Proiecte scolare\C#\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+C:\Users\Andrew\Documents\Proiecte scolare\C#\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Documents\Proiecte scolare\C#\Notepad\Notepad\obj\Debug\Notepad.exe
+C:\Users\Andrew\Documents\Proiecte scolare\C#\Notepad\Notepad\obj\Debug\Notepad.pdb
