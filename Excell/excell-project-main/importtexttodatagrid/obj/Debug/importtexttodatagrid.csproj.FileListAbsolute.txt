@@ -31,3 +31,17 @@ C:\Users\Andrew\Documents\Proiecte scolare\C#\Excell\excell-project-main\importt
 C:\Users\Andrew\Documents\Proiecte scolare\C#\Excell\excell-project-main\importtexttodatagrid\obj\Debug\importtexttodatagrid.csproj.CoreCompileInputs.cache
 C:\Users\Andrew\Documents\Proiecte scolare\C#\Excell\excell-project-main\importtexttodatagrid\obj\Debug\importtexttodatagrid.exe
 C:\Users\Andrew\Documents\Proiecte scolare\C#\Excell\excell-project-main\importtexttodatagrid\obj\Debug\importtexttodatagrid.pdb
+H:\POO\Laboratoare\Excell\excell-project-main\importtexttodatagrid\obj\Debug\importtexttodatagrid.csprojResolveAssemblyReference.cache
+H:\POO\Laboratoare\Excell\excell-project-main\importtexttodatagrid\obj\Debug\importtexttodatagrid.exe
+H:\POO\Laboratoare\Excell\excell-project-main\importtexttodatagrid\obj\Debug\importtexttodatagrid.pdb
+F:\POO\Laboratoare\Excell\excell-project-main\importtexttodatagrid\bin\Debug\importtexttodatagrid.exe.config
+F:\POO\Laboratoare\Excell\excell-project-main\importtexttodatagrid\bin\Debug\importtexttodatagrid.exe
+F:\POO\Laboratoare\Excell\excell-project-main\importtexttodatagrid\bin\Debug\importtexttodatagrid.pdb
+F:\POO\Laboratoare\Excell\excell-project-main\importtexttodatagrid\obj\Debug\importtexttodatagrid.csprojAssemblyReference.cache
+F:\POO\Laboratoare\Excell\excell-project-main\importtexttodatagrid\obj\Debug\importtexttodatagrid.csproj.ResolveComReference.cache
+F:\POO\Laboratoare\Excell\excell-project-main\importtexttodatagrid\obj\Debug\importtexttodatagrid.Form1.resources
+F:\POO\Laboratoare\Excell\excell-project-main\importtexttodatagrid\obj\Debug\importtexttodatagrid.Properties.Resources.resources
+F:\POO\Laboratoare\Excell\excell-project-main\importtexttodatagrid\obj\Debug\importtexttodatagrid.csproj.GenerateResource.cache
+F:\POO\Laboratoare\Excell\excell-project-main\importtexttodatagrid\obj\Debug\importtexttodatagrid.csproj.CoreCompileInputs.cache
+F:\POO\Laboratoare\Excell\excell-project-main\importtexttodatagrid\obj\Debug\importtexttodatagrid.exe
+F:\POO\Laboratoare\Excell\excell-project-main\importtexttodatagrid\obj\Debug\importtexttodatagrid.pdb

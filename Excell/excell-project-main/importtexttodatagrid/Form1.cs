@@ -37,7 +37,7 @@ namespace importtexttodatagrid
 
         private void button_Import_Click(object sender, EventArgs e)
         {
-            string[] lines = File.ReadAllLines(@"C:\Users\Andrew\Documents\Proiecte scolare\C#\Excell\excell-project-main\Test.txt"); //Clasa file este deschiderea unui fisier
+            string[] lines = File.ReadAllLines(@"F:\POO\Laboratoare\Excell\excell-project-main\Test.txt"); //Clasa file este deschiderea unui fisier
             string[] values;
 
             for(int i = 0; i < lines.Length; i++)    //in codul de mai jos este cintrolat txt fisierl daca are ceva scris in el
@@ -79,7 +79,7 @@ namespace importtexttodatagrid
             Excel.Worksheet xlSht;
 
             Excel.Application xlApp = new Excel.Application(); //Crearea file Excel
-            xlWB = xlApp.Workbooks.Open(@"C:\Users\Andrew\Documents\Proiecte scolare\C#\Excell\excell-project-main\Test.xlsx"); //Deschiderea fisierului
+            xlWB = xlApp.Workbooks.Open(@"F:\POO\Laboratoare\Excell\excell-project-main\Test.xlsx"); //Deschiderea fisierului
             xlSht = xlWB.Worksheets["Лист1"]; //in cazul dat xlSht = xlWB.ActiveSheet // pagina din excel
 
             Rng = xlSht.get_Range("I:I"); //luăm întreaga coloană I în variabila Rng
@@ -95,7 +95,7 @@ namespace importtexttodatagrid
             MessageBox.Show("Suma calculatoarelor este egala cu: " + sum, "Atentie", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
         }
-        private void releaseObject(object obj)
+        private void releaseObject(object obj) 
         {
             try
             {
