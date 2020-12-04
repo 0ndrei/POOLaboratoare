@@ -1,0 +1,3 @@
+Socket, EndPoint, byte - clasa
+sck, epLocal, epRemote, buffer - variabile
+
