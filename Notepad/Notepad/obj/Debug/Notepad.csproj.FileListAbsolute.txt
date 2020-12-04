@@ -18,3 +18,19 @@ C:\Users\Andrew\Documents\Proiecte scolare\C#\Notepad\Notepad\obj\Debug\Notepad.
 C:\Users\Andrew\Documents\Proiecte scolare\C#\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
 C:\Users\Andrew\Documents\Proiecte scolare\C#\Notepad\Notepad\obj\Debug\Notepad.exe
 C:\Users\Andrew\Documents\Proiecte scolare\C#\Notepad\Notepad\obj\Debug\Notepad.pdb
+H:\POO\Laboratoare\Notepad\Notepad\bin\Debug\Notepad.exe.config
+H:\POO\Laboratoare\Notepad\Notepad\obj\Debug\Notepad.exe
+H:\POO\Laboratoare\Notepad\Notepad\obj\Debug\Notepad.pdb
+H:\POO\Laboratoare\Notepad\Notepad\bin\Debug\Notepad.exe
+H:\POO\Laboratoare\Notepad\Notepad\bin\Debug\Notepad.pdb
+H:\POO\Laboratoare\Notepad\Notepad\bin\Debug\mscorlib.dll
+H:\POO\Laboratoare\Notepad\Notepad\bin\Debug\ru\mscorlib.resources.dll
+H:\POO\Laboratoare\Notepad\Notepad\bin\Debug\normidna.nlp
+H:\POO\Laboratoare\Notepad\Notepad\bin\Debug\normnfc.nlp
+H:\POO\Laboratoare\Notepad\Notepad\bin\Debug\normnfd.nlp
+H:\POO\Laboratoare\Notepad\Notepad\bin\Debug\normnfkc.nlp
+H:\POO\Laboratoare\Notepad\Notepad\bin\Debug\normnfkd.nlp
+H:\POO\Laboratoare\Notepad\Notepad\obj\Debug\Notepad.csprojResolveAssemblyReference.cache
+H:\POO\Laboratoare\Notepad\Notepad\obj\Debug\Notepad.Form1.resources
+H:\POO\Laboratoare\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+H:\POO\Laboratoare\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.Cache
