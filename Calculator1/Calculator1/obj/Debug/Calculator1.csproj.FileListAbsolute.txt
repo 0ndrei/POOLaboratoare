@@ -18,3 +18,19 @@ C:\Users\Andrew\Documents\Proiecte scolare\C#\Calculator1\Calculator1\obj\Debug\
 C:\Users\Andrew\Documents\Proiecte scolare\C#\Calculator1\Calculator1\obj\Debug\Calculator1.csproj.CoreCompileInputs.cache
 C:\Users\Andrew\Documents\Proiecte scolare\C#\Calculator1\Calculator1\obj\Debug\Calculator1.exe
 C:\Users\Andrew\Documents\Proiecte scolare\C#\Calculator1\Calculator1\obj\Debug\Calculator1.pdb
+H:\POO\Laboratoare\Calculator1\Calculator1\bin\Debug\Calculator1.exe.config
+H:\POO\Laboratoare\Calculator1\Calculator1\obj\Debug\Calculator1.exe
+H:\POO\Laboratoare\Calculator1\Calculator1\obj\Debug\Calculator1.pdb
+H:\POO\Laboratoare\Calculator1\Calculator1\bin\Debug\Calculator1.exe
+H:\POO\Laboratoare\Calculator1\Calculator1\bin\Debug\Calculator1.pdb
+H:\POO\Laboratoare\Calculator1\Calculator1\bin\Debug\mscorlib.dll
+H:\POO\Laboratoare\Calculator1\Calculator1\bin\Debug\ru\mscorlib.resources.dll
+H:\POO\Laboratoare\Calculator1\Calculator1\bin\Debug\normidna.nlp
+H:\POO\Laboratoare\Calculator1\Calculator1\bin\Debug\normnfc.nlp
+H:\POO\Laboratoare\Calculator1\Calculator1\bin\Debug\normnfd.nlp
+H:\POO\Laboratoare\Calculator1\Calculator1\bin\Debug\normnfkc.nlp
+H:\POO\Laboratoare\Calculator1\Calculator1\bin\Debug\normnfkd.nlp
+H:\POO\Laboratoare\Calculator1\Calculator1\obj\Debug\Calculator1.csprojResolveAssemblyReference.cache
+H:\POO\Laboratoare\Calculator1\Calculator1\obj\Debug\Calculator1.Form1.resources
+H:\POO\Laboratoare\Calculator1\Calculator1\obj\Debug\Calculator1.Properties.Resources.resources
+H:\POO\Laboratoare\Calculator1\Calculator1\obj\Debug\Calculator1.csproj.GenerateResource.Cache
